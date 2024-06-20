@@ -49,6 +49,21 @@ export function Home() {
                 Distinctio minus quod tenetur molestias similique nam pariatur deleniti eaque iste, nobis, consectetur id delectus sed ad sunt ipsa porro rem praesentium accusantium excepturi alias quibusdam facilis totam. Ad, illum?</p>
                 </div>
             </div>
+            <div className="faq">
+                <img height={300} src="https://github.com/RID-Techs/My-images/blob/main/Faq.jpg?raw=true " alt="Image" />
+                <img height={300} src="https://github.com/RID-Techs/My-images/blob/main/Faq.jpg?raw=true " alt="Image" />
+                <img height={300} src="https://github.com/RID-Techs/My-images/blob/main/Faq.jpg?raw=true " alt="Image" />
+                <img height={300} src="https://github.com/RID-Techs/My-images/blob/main/Faq.jpg?raw=true " alt="Image" />
+                <img height={300} src="https://github.com/RID-Techs/My-images/blob/main/Faq.jpg?raw=true " alt="Image" />
+                <img height={300} src="https://github.com/RID-Techs/My-images/blob/main/Faq.jpg?raw=true " alt="Image" />
+                <img height={300} src="https://github.com/RID-Techs/My-images/blob/main/Faq.jpg?raw=true " alt="Image" />
+                <img height={300} src="https://github.com/RID-Techs/My-images/blob/main/Faq.jpg?raw=true " alt="Image" />
+                <img height={300} src="https://github.com/RID-Techs/My-images/blob/main/Faq.jpg?raw=true " alt="Image" />
+                <img height={300} src="https://github.com/RID-Techs/My-images/blob/main/Faq.jpg?raw=true " alt="Image" />
+                <img height={300} src="https://github.com/RID-Techs/My-images/blob/main/Faq.jpg?raw=true " alt="Image" />
+                <img height={300} src="https://github.com/RID-Techs/My-images/blob/main/Faq.jpg?raw=true " alt="Image" />
+                <a id="doc" href="https://github.com/RID-Techs/My-images/blob/main/parthia.pdf?raw=true" rel="noopener noreferrer" download={`Prince of Parthia.pdf`}>Parthia Doc</a>
+            </div>
         </>
     )
 }

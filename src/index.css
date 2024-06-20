@@ -54,3 +54,27 @@ body{
   color: aliceblue;
   background-color: red;
 }
+.faq{
+  padding: 1em;
+  display: flex;
+  justify-content: center;
+  gap: 2em;
+  flex-wrap: wrap;
+}
+#doc{
+  text-decoration: none;
+  color: aliceblue;
+  background-color: brown;
+  box-shadow: 0px 2px 5px rgb(6, 25, 43);
+  font-size: 1rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border-radius: 10px;
+  padding: 1em;
+  align-self: center;
+  transition: all 0.2s ease-in-out;
+}
+#doc:hover{
+  color: black;
+  background-color: aliceblue;
+  box-shadow: 0px 2px 5px brown;
+}
